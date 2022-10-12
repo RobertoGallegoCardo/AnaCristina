@@ -1,0 +1,12 @@
+El registro de procesamiento de Adobe After Effects v13.8 Windows 64 para el procesamiento del proyecto "Motion Graphic.aep"
+
+ se inició en 22/09/2022 a las 12:22:48
+
+  22/09/2022 12:22:48: Iniciando composición "Comp 1".
+
+  Salida a: C:\Users\galle\Desktop\DRA Ana Cristina\4 RECURSOS\16_9.avi    22/09/2022 12:27:04: Composición finalizada "Comp 1".
+
+
+  Tiempo total transc.: 4 min, 6 s
+Registro cerrado en 22/09/2022 a las 12:27:04
+
